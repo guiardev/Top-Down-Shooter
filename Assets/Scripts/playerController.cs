@@ -95,7 +95,7 @@ public class playerController : MonoBehaviour{
     public void TriggerShot(){
         //_playerAnimator.SetTrigger("attack");
         _playerAnimator.SetBool("attack", true);
-        //Stop();
+        Stop();
     }
 
     public void Stop(){
@@ -105,6 +105,7 @@ public class playerController : MonoBehaviour{
     IEnumerator StopAnimation(float secondsStop){
         yield return new WaitForSeconds(secondsStop);
         _playerAnimator.SetBool("attack", false);
+        //_playerAnimator.SetBool("isWalk", false);
         Debug.Log("StopAnimation");
     }
     
@@ -122,7 +123,7 @@ public class playerController : MonoBehaviour{
     public void makeHit(int dmg){
 
         _currentHp -= dmg;
-        _percHp = (float)_currentHp / (float)maxHp; // covertendo valor int maxHp para float
+        _percHp = (float)_currentHp / (float)maxHp; // convertendo valor int maxHp para float
 
         if(_percHp < 0){
             _percHp = 0;
