@@ -23,3 +23,12 @@ Projeto feito curso Aprenda Unity PRO no site: https://aprendaunity.com.br
 <td><img src="https://github.com/guiardev/Top-Down-Shooter/blob/main/Assets/Recordings/Movie_Player.gif" width="1000" height="595"/></td>
 
 <p>O personagem vai se mover para cima ou para baixo e para direita e esquerda o poderá trocar de armas, e atirar com elas</p>
+
+<h3>Player Controller and Player Shooter</h3>
+
+<table border="0">
+   <tr>
+        <td><img src="https://github.com/guiardev/Top-Down-Shooter/blob/main/Assets/imgs/img_player-part1.png" width="562" height="600"/></td>
+        <td><img src="https://github.com/guiardev/Top-Down-Shooter/blob/main/Assets/imgs/img_player-part2.png" width="550" height="560"/></td>
+    </tr>
+</table>
