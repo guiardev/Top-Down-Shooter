@@ -43,3 +43,5 @@ Projeto feito curso Aprenda Unity PRO no site: https://aprendaunity.com.br
         <td><img src="https://github.com/guiardev/Top-Down-Shooter/blob/main/Assets/imgs/img_lineRenderer.png" width="550" height="900"/></td>
     </tr>
 </table>
+
+<img src="https://github.com/guiardev/Top-Down-Shooter/blob/main/Assets/imgs/img_Aim.png" width="549" height="465"/>
