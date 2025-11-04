@@ -17,3 +17,8 @@ Projeto feito curso Aprenda Unity PRO no site: https://aprendaunity.com.br
         <li><h4><a href="#C12">Adicionado Sangue, alterando o sistema de arma para permitir upgrades</a></h4></li>
         <li><h4><a href="#C13">Empilhamento de Corpos</a></h4></li>
     </ol>
+
+<h1 id="C1">Player Controller</h1>
+
+<p>O Menu do jogo terá três opções: um play para entrar cena gameplay e outro exit para sair do jogo e credits.
+Utilizamos o HorizontalLayoutGroup para organizar os botões.</p>
