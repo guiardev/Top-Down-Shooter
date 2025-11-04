@@ -40,6 +40,6 @@ Projeto feito curso Aprenda Unity PRO no site: https://aprendaunity.com.br
 <table border="0">
    <tr>
         <td><img src="https://github.com/guiardev/Top-Down-Shooter/blob/main/Assets/imgs/img_playerShooter.png" width="550" height="840"/></td>
-        <td><img src="https://github.com/guiardev/Top-Down-Shooter/blob/main/Assets/imgs/img_player-part2.png" width="550" height="560"/></td>
+        <td><img src="https://github.com/guiardev/Top-Down-Shooter/blob/main/Assets/imgs/img_lineRenderer.png" width="550" height="900"/></td>
     </tr>
 </table>
