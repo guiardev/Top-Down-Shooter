@@ -37,6 +37,9 @@ Projeto feito curso Aprenda Unity PRO no site: https://aprendaunity.com.br
 
 <h1 id="C2">Sistema de Mira e Tiro</h1>
 
+<p>O sistema mira vai ser controlado script playerShooter que vai dizer quantas armas no jogo time entre os tiros o alcance de cada arma e ícones das armas e qual e mira que vai seguir o mouse.
+  O lineRenderer que vai definir a trajetória do tiro.</p>
+
 <table border="0">
    <tr>
         <td><img src="https://github.com/guiardev/Top-Down-Shooter/blob/main/Assets/imgs/img_playerShooter.png" width="550" height="840"/></td>
