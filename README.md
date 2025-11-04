@@ -20,7 +20,7 @@ Projeto feito curso Aprenda Unity PRO no site: https://aprendaunity.com.br
 
 <h1 id="C1">Player Controller</h1>
 
-<td><img src="https://github.com/guiardev/Top-Down-Shooter/blob/main/Assets/Recordings/Movie_Player.gif" width="430" height="450"/></td>
+<td><img src="https://github.com/guiardev/Top-Down-Shooter/blob/main/Assets/Recordings/Movie_Player.gif" width="1000" height="595"/></td>
 
 <p>O Menu do jogo terá três opções: um play para entrar cena gameplay e outro exit para sair do jogo e credits.
 Utilizamos o HorizontalLayoutGroup para organizar os botões.</p>
