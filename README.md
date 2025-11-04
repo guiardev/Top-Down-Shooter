@@ -5,7 +5,7 @@ Projeto feito curso Aprenda Unity PRO no site: https://aprendaunity.com.br
     <ol>
         <li><h4><a href="#C1">Player Controller</a></h4></li>
         <li><h4><a href="#C2">Sistema de Mira e Tiro</a></h4></li>
-        <li><h4><a href="#C3">IA com Navmesh</a></h4></li>
+        <li><h4><a href="#C3">IA com Navmesh e Inimigos</a></h4></li>
         <li><h4><a href="#C4">Adicionando Obstáculos</a></h4></li>
         <li><h4><a href="#C5">Configurando Multiplas Armas</a></h4></li>
         <li><h4><a href="#C6">Animaçoes</a></h4></li>
@@ -31,6 +31,15 @@ Projeto feito curso Aprenda Unity PRO no site: https://aprendaunity.com.br
 <table border="0">
    <tr>
         <td><img src="https://github.com/guiardev/Top-Down-Shooter/blob/main/Assets/imgs/img_player-part1.png" width="562" height="600"/></td>
+        <td><img src="https://github.com/guiardev/Top-Down-Shooter/blob/main/Assets/imgs/img_player-part2.png" width="550" height="560"/></td>
+    </tr>
+</table>
+
+<h1 id="C2">Sistema de Mira e Tiro</h1>
+
+<table border="0">
+   <tr>
+        <td><img src="https://github.com/guiardev/Top-Down-Shooter/blob/main/Assets/imgs/img_playerShooter.png" width="550" height="840"/></td>
         <td><img src="https://github.com/guiardev/Top-Down-Shooter/blob/main/Assets/imgs/img_player-part2.png" width="550" height="560"/></td>
     </tr>
 </table>
