@@ -48,3 +48,14 @@ Projeto feito curso Aprenda Unity PRO no site: https://aprendaunity.com.br
 </table>
 
 <img src="https://github.com/guiardev/Top-Down-Shooter/blob/main/Assets/imgs/img_Aim.png" width="549" height="465"/>
+
+<h1 id="C3">IA com Navmesh e Inimigos</h1>
+
+<p>Os Inimigos vão estar com dois script EnemyMovement que vai ser responsável pelo movimento do inimigo e outro EnemyHP que vai cuidar da vida do inimigo.</p>
+
+<table border="0">
+   <tr>
+        <td><img src="https://github.com/guiardev/Top-Down-Shooter/blob/main/Assets/imgs/img_Enemy.png" width="550" height="900"/></td>
+        <td><img src="https://github.com/guiardev/Top-Down-Shooter/blob/main/Assets/imgs/img_Navigation.png" width="550" height="423"/></td>
+    </tr>
+</table>
