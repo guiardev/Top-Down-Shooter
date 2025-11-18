@@ -48,3 +48,15 @@ Projeto feito curso Aprenda Unity PRO no site: https://aprendaunity.com.br
 </table>
 
 <img src="https://github.com/guiardev/Top-Down-Shooter/blob/main/Assets/imgs/img_Aim.png" width="549" height="465"/>
+
+<h1 id="C3">IA com Navmesh e Inimigos</h1>
+
+<p>O sistema mira vai ser controlado script playerShooter que vai dizer quantas armas no jogo time entre os tiros o alcance de cada arma e ícones das armas e qual e mira que vai seguir o mouse.
+  O lineRenderer que vai definir a trajetória do tiro.</p>
+
+<table border="0">
+   <tr>
+        <td><img src="https://github.com/guiardev/Top-Down-Shooter/blob/main/Assets/imgs/img_Enemy.png" width="550" height="900"/></td>
+        <td><img src="https://github.com/guiardev/Top-Down-Shooter/blob/main/Assets/imgs/img_Navigation.png" width="550" height="423"/></td>
+    </tr>
+</table>
