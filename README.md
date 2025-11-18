@@ -53,6 +53,8 @@ Projeto feito curso Aprenda Unity PRO no site: https://aprendaunity.com.br
 
 <p>Os Inimigos vão estar com dois script EnemyMovement que vai ser responsável pelo movimento do inimigo e outro EnemyHP que vai cuidar da vida do inimigo.</p>
 
+<td><img src="https://github.com/guiardev/Top-Down-Shooter/blob/main/Assets/Recordings/Enemy.gif" width="1000" height="595"/></td>
+
 <table border="0">
    <tr>
         <td><img src="https://github.com/guiardev/Top-Down-Shooter/blob/main/Assets/imgs/img_Enemy.png" width="550" height="900"/></td>
