@@ -51,8 +51,7 @@ Projeto feito curso Aprenda Unity PRO no site: https://aprendaunity.com.br
 
 <h1 id="C3">IA com Navmesh e Inimigos</h1>
 
-<p>O sistema mira vai ser controlado script playerShooter que vai dizer quantas armas no jogo time entre os tiros o alcance de cada arma e ícones das armas e qual e mira que vai seguir o mouse.
-  O lineRenderer que vai definir a trajetória do tiro.</p>
+<p>Os Inimigos vão estar com dois script EnemyMovement que vai ser responsável pelo movimento do inimigo e outro EnemyHP que vai cuidar da vida do inimigo.</p>
 
 <table border="0">
    <tr>
