@@ -63,3 +63,5 @@ Projeto feito curso Aprenda Unity PRO no site: https://aprendaunity.com.br
         <td><img src="https://github.com/guiardev/Top-Down-Shooter/blob/main/Assets/imgs/img_Navigation.png" width="550" height="423"/></td>
     </tr>
 </table>
+
+<h1 id="C4">Adicionando Obstáculos</h1>
