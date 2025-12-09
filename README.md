@@ -65,3 +65,5 @@ Projeto feito curso Aprenda Unity PRO no site: https://aprendaunity.com.br
 </table>
 
 <h1 id="C4">Adicionando Obstáculos</h1>
+
+<td><img src="https://github.com/guiardev/Top-Down-Shooter/blob/main/Assets/Recordings/Movie_015.gif" width="1000" height="595"/></td>
