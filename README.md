@@ -53,9 +53,15 @@ Projeto feito curso Aprenda Unity PRO no site: https://aprendaunity.com.br
 
 <p>Os Inimigos vão estar com dois script EnemyMovement que vai ser responsável pelo movimento do inimigo e outro EnemyHP que vai cuidar da vida do inimigo.</p>
 
+<p>A navegação vai ser utilizando NavMeshAgent que vai mapear cenários e vai dizer onde inimigo pode andar e pode atravessar.</p>
+
+<td><img src="https://github.com/guiardev/Top-Down-Shooter/blob/main/Assets/Recordings/Enemy.gif" width="1000" height="595"/></td>
+
 <table border="0">
    <tr>
         <td><img src="https://github.com/guiardev/Top-Down-Shooter/blob/main/Assets/imgs/img_Enemy.png" width="550" height="900"/></td>
         <td><img src="https://github.com/guiardev/Top-Down-Shooter/blob/main/Assets/imgs/img_Navigation.png" width="550" height="423"/></td>
     </tr>
 </table>
+
+<h1 id="C4">Adicionando Obstáculos</h1>
