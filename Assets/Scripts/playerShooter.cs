@@ -59,6 +59,7 @@ public class playerShooter : MonoBehaviour{
         penteAmmunition[2,1] = 12;
         penteAmmunition[2,2] = 12;
 
+        //RemoveAllNavMeshDataExample();
     }
 
     // Update is called once per frame
@@ -206,6 +207,12 @@ public class playerShooter : MonoBehaviour{
         bool haveAmmunition = penteAmmunition[idArma, 1] > 0;
         return haveAmmunition;
     }
+
+    // void RemoveAllNavMeshDataExample(){
+    //     Debug.Log("Attempting to remove all NavMesh data...");
+    //     UnityEngine.AI.NavMesh.RemoveAllNavMeshData();
+    //     Debug.Log("All NavMesh data removed.");
+    // }
 
     IEnumerator loading(){
 
