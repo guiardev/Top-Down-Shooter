@@ -73,6 +73,6 @@ Projeto feito curso Aprenda Unity PRO no site: https://aprendaunity.com.br
 <table border="0">
    <tr>
         <td><img src="https://github.com/guiardev/Top-Down-Shooter/blob/main/Assets/imgs/img_Navigation2.png" width="666" height="583"/></td>
-        <td><img src="https://github.com/guiardev/Top-Down-Shooter/blob/main/Assets/imgs/img_Navigation.png" width="550" height="423"/></td>
+        <td><img src="https://github.com/guiardev/Top-Down-Shooter/blob/main/Assets/imgs/img_cube-car.png" width="453" height="477"/></td>
     </tr>
 </table>
