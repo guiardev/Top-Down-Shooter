@@ -66,13 +66,16 @@ Projeto feito curso Aprenda Unity PRO no site: https://aprendaunity.com.br
 
 <h1 id="C4">Adicionando Obstáculos</h1>
 
-<p></p>
+<p>No jogo vai ter obstáculos que o inimigo nao podera atravesar e jogador tambem.</p>
 
 <td><img src="https://github.com/guiardev/Top-Down-Shooter/blob/main/Assets/Recordings/Movie_015.gif" width="1000" height="595"/></td>
 
 <table border="0">
    <tr>
         <td><img src="https://github.com/guiardev/Top-Down-Shooter/blob/main/Assets/imgs/img_Navigation2.png" width="666" height="583"/></td>
-        <td><img src="https://github.com/guiardev/Top-Down-Shooter/blob/main/Assets/imgs/img_cube-car.png" width="453" height="477"/></td>
+       <td><img src="https://github.com/guiardev/Top-Down-Shooter/blob/main/Assets/imgs/img_NavMesh%20Surface.png" width="455" height="674"/></td>
     </tr>
 </table>
+
+<img src="https://github.com/guiardev/Top-Down-Shooter/blob/main/Assets/imgs/img_cube-car.png" width="453" height="477"/>
+
