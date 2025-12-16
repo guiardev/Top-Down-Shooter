@@ -57,6 +57,10 @@ Projeto feito curso Aprenda Unity PRO no site: https://aprendaunity.com.br
 
 <td><img src="https://github.com/guiardev/Top-Down-Shooter/blob/main/Assets/Recordings/Enemy.gif" width="1000" height="595"/></td>
 
+<h3 id="C4">Navigation</h3>
+
+<p>As configurações altura e raio da navegação da ia do inimigo e como ela vai se comportar no cenário</p>
+
 <table border="0">
    <tr>
         <td><img src="https://github.com/guiardev/Top-Down-Shooter/blob/main/Assets/imgs/img_Enemy.png" width="550" height="900"/></td>
