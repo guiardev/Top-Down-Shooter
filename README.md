@@ -57,6 +57,10 @@ Projeto feito curso Aprenda Unity PRO no site: https://aprendaunity.com.br
 
 <td><img src="https://github.com/guiardev/Top-Down-Shooter/blob/main/Assets/Recordings/Enemy.gif" width="1000" height="595"/></td>
 
+<h3 id="C4">Navigation</h3>
+
+<p>As configurações altura e raio da navegação da ia do inimigo e como ela vai se comportar no cenário</p>
+
 <table border="0">
    <tr>
         <td><img src="https://github.com/guiardev/Top-Down-Shooter/blob/main/Assets/imgs/img_Enemy.png" width="550" height="900"/></td>
@@ -66,9 +70,13 @@ Projeto feito curso Aprenda Unity PRO no site: https://aprendaunity.com.br
 
 <h1 id="C4">Adicionando Obstáculos</h1>
 
-<p>No jogo vai ter obstáculos que o inimigo nao podera atravesar e jogador tambem.</p>
+<p>No jogo vai ter obstáculos que o inimigo não poderá atravessar no jogo e o jogador também não vai atravessar e inimigo vai dar a volta o obstáculos no cenário para seguir o jogador.</p>
 
 <td><img src="https://github.com/guiardev/Top-Down-Shooter/blob/main/Assets/Recordings/Movie_015.gif" width="1000" height="595"/></td>
+
+<h3 id="C3">NavMesh Surface</h3>
+
+<p>O NavMesh Surface que vai definir os espaços que ia do inimigo não vai andar.</p>
 
 <table border="0">
    <tr>
@@ -77,5 +85,23 @@ Projeto feito curso Aprenda Unity PRO no site: https://aprendaunity.com.br
     </tr>
 </table>
 
-<img src="https://github.com/guiardev/Top-Down-Shooter/blob/main/Assets/imgs/img_cube-car.png" width="453" height="477"/>
+<h3 id="C3">Cube BoxCollider</h3>
 
+<p>O objeto carro dentro dele vai esta objeto boxcollider esse boxcollider que vai criar um obstáculos para inimigo não poder andar, 
+    o quando faz bake no gameobject NavMesh Surface ele vai criar lugares onde ia do inimigo não vai andar e boxcollider são os lugares.</p>
+
+<table border="0">
+   <tr>
+       <td><img src="https://github.com/guiardev/Top-Down-Shooter/blob/main/Assets/imgs/img_cube-car-boxcollider.png" width="673" height="498"/></td>
+       <td><img src="https://github.com/guiardev/Top-Down-Shooter/blob/main/Assets/imgs/img_cube-car.png" width="453" height="477"/></td>
+    </tr>
+</table>
+
+<h1 id="C5">Configurando Multiplas Armas</h1>
+
+<table border="0">
+   <tr>
+        <td><img src="https://github.com/guiardev/Top-Down-Shooter/blob/main/Assets/imgs/img_player-part1.png" width="562" height="600"/></td>
+        <td><img src="https://github.com/guiardev/Top-Down-Shooter/blob/main/Assets/imgs/img_player-part2.png" width="550" height="560"/></td>
+    </tr>
+</table>
