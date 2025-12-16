@@ -66,7 +66,7 @@ Projeto feito curso Aprenda Unity PRO no site: https://aprendaunity.com.br
 
 <h1 id="C4">Adicionando Obstáculos</h1>
 
-<p>No jogo vai ter obstáculos que o inimigo nao podera atravesar e jogador tambem.</p>
+<p>No jogo vai ter obstáculos que o inimigo não poderá atravessar no jogo e o jogador também não vai atravessar e inimigo vai dar a volta o obstáculos no cenário para seguir o jogador.</p>
 
 <td><img src="https://github.com/guiardev/Top-Down-Shooter/blob/main/Assets/Recordings/Movie_015.gif" width="1000" height="595"/></td>
 
