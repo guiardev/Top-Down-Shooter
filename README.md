@@ -72,6 +72,8 @@ Projeto feito curso Aprenda Unity PRO no site: https://aprendaunity.com.br
 
 <h3 id="C3">NavMesh Surface</h3>
 
+<p>O NavMesh Surface que vai definir os espaços que ia do inimigo não vai andar.</p>
+
 <table border="0">
    <tr>
         <td><img src="https://github.com/guiardev/Top-Down-Shooter/blob/main/Assets/imgs/img_Navigation2.png" width="666" height="583"/></td>
