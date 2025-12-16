@@ -79,6 +79,8 @@ Projeto feito curso Aprenda Unity PRO no site: https://aprendaunity.com.br
     </tr>
 </table>
 
+<h3 id="C3">Cube BoxCollider</h3>
+
 <p>O objeto carro dentro dele vai esta objeto boxcollider esse boxcollider que vai criar um obstáculos para inimigo não poder andar, 
     o quando faz bake no gameobject NavMesh Surface ele vai criar lugares onde ia do inimigo não vai andar e boxcollider são os lugares.</p>
 
