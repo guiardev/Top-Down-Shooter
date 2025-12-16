@@ -99,6 +99,8 @@ Projeto feito curso Aprenda Unity PRO no site: https://aprendaunity.com.br
 
 <h1 id="C5">Configurando Multiplas Armas</h1>
 
+<td><img src="https://github.com/guiardev/Top-Down-Shooter/blob/main/Assets/Recordings/Guns.gif" width="853" height="480"/></td>
+
 <table border="0">
    <tr>
         <td><img src="https://github.com/guiardev/Top-Down-Shooter/blob/main/Assets/imgs/img_player-part1.png" width="562" height="600"/></td>
