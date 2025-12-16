@@ -70,6 +70,8 @@ Projeto feito curso Aprenda Unity PRO no site: https://aprendaunity.com.br
 
 <td><img src="https://github.com/guiardev/Top-Down-Shooter/blob/main/Assets/Recordings/Movie_015.gif" width="1000" height="595"/></td>
 
+<h3 id="C3">NavMesh Surface</h3>
+
 <table border="0">
    <tr>
         <td><img src="https://github.com/guiardev/Top-Down-Shooter/blob/main/Assets/imgs/img_Navigation2.png" width="666" height="583"/></td>
